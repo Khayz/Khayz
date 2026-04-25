@@ -17,6 +17,19 @@ I build frontend platforms and developer experience tools that help engineering 
 
 ## Core Stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,html,css,nodejs,express,python" alt="Frontend and backend stack" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,gitlab,bitbucket,jenkins,grafana,sentry" alt="Cloud, DevOps, and observability stack" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,cypress,playwright" alt="Testing stack" />
+  <img src="https://img.shields.io/badge/React_Testing_Library-20232A?style=for-the-badge&logo=testinglibrary&logoColor=E33332" alt="React Testing Library" />
+  <img src="https://img.shields.io/badge/Snyk-20232A?style=for-the-badge&logo=snyk&logoColor=4C4A73" alt="Snyk" />
+  <img src="https://img.shields.io/badge/Codex-20232A?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+</p>
+
 | Area | Tools |
 | --- | --- |
 | Frontend | React, Next.js, TypeScript, JavaScript, Redux, Redux-Saga, HTML5, CSS3 |
